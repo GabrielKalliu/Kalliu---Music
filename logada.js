@@ -5,8 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // DADOS DOS ARTISTAS
     // =========================
     const artistsData = [
-        { name: 'Rap Metal', artist: 'Artist 1',image: '../_img/rap_metal.jpg', audio: '../_music/rap-metal.mp3' },
-        { name: 'Tokyo Cafe',artist: 'TVARI', image: '../_img/tvari-tokyo.jpg', audio: '../_music/tvari-tokyo.mp3' },
+        { name: 'Rap Metal', artist: 'Artist 1',image: 'rap_metal.jpg', audio: 'rap-metal.mp3' },
+        { name: 'Tokyo Cafe',artist: 'TVARI', image: 'tvari-tokyo.jpg', audio: 'tvari-tokyo.mp3' },
         { name: 'Alec koff blues',artist: 'Artist 1', image: '../_img/alec_koff-blues.jpg', audio: '../_music/alec_koff-blues.mp3' },
         { name: 'alec koff carnaval',artist: 'Artist 1', image: '../_img/alec_koff-carnaval.jpg', audio: '../_music/alec_koff-carnaval.mp3' },
         { name: 'bransboynd night', artist: 'Artist 1',image: '../_img/bransboynd-night.jpg', audio: '../_music/bransboynd-night.mp3' },
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // DADOS DOS ÁLBUNS
     // =========================
     const albumsData = [
-        { name: 'Rap Metal', artist: 'Artist ',image: '../_img/rap_metal.jpg', audio: '../_music/rap-metal.mp3' },
+        { name: 'Rap Metal', artist: 'Artist ',image: 'rap_metal.jpg', audio: 'rap-metal.mp3' },
         { name: 'Tvari',artist: 'Artist ', image: '../_img/tvari-tokyo.jpg', audio: '../_music/tvari-tokyo.mp3' },
         { name: 'Alec koff blues',artist: 'Artist', image: '../_img/alec_koff-blues.jpg', audio: '../_music/alec_koff-blues.mp3' },
         { name: 'alec koff carnaval',artist: 'Artist ', image: '../_img/alec_koff-carnaval.jpg', audio: '../_music/alec_koff-carnaval.mp3' },
