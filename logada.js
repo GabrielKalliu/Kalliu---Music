@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const artistsData = [
         { name: 'Rap Metal', artist: 'Artist 1',image: 'rap_metal.jpg', audio: 'rap-metal.mp3' },
         { name: 'Tokyo Cafe',artist: 'TVARI', image: 'tvari-tokyo.jpg', audio: 'tvari-tokyo.mp3' },
-        { name: 'Alec koff blues',artist: 'Artist 1', image: '../_img/alec_koff-blues.jpg', audio: '../_music/alec_koff-blues.mp3' },
+        { name: 'Alec koff blues',artist: 'Alec koff', image: 'alec_koff-blues.jpg', audio: 'alec_koff-blues.mp3' },
         { name: 'alec koff carnaval',artist: 'Artist 1', image: '../_img/alec_koff-carnaval.jpg', audio: '../_music/alec_koff-carnaval.mp3' },
         { name: 'bransboynd night', artist: 'Artist 1',image: '../_img/bransboynd-night.jpg', audio: '../_music/bransboynd-night.mp3' },
         { name: 'domartistudios-magical',artist: 'Artist 1', image: '../_img/domartistudios-magical.jpg', audio: '../_music/domartistudios-magical.mp3' },
@@ -30,11 +30,11 @@ document.addEventListener('DOMContentLoaded', () => {
     // DADOS DAS RÁDIOS
     // =========================
     const radioData = [
-        { name: 'Rap ', image: '../_img/1.jpg' },
-        { name: 'Rock', image: '../_img/2.jpg' },
-        { name: 'Samba', image: '../_img/3.jpg' },
-        { name: 'Jazz', image: '../_img/4.jpg' },
-        { name: 'Eletronica', image: '../_img/5.jpg' }
+        { name: 'Rap ', image: '1.jpg' },
+        { name: 'Rock', image: '2.jpg' },
+        { name: 'Samba', image: '3.jpg' },
+        { name: 'Jazz', image: '4.jpg' },
+        { name: 'Eletronica', image: '5.jpg' }
     ];
 
     // =========================
