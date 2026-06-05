@@ -8,10 +8,10 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'Rap Metal', artist: 'Artist 1',image: 'rap_metal.jpg', audio: 'rap-metal.mp3' },
         { name: 'Tokyo Cafe',artist: 'TVARI', image: 'tvari-tokyo.jpg', audio: 'tvari-tokyo.mp3' },
         { name: 'Alec koff blues',artist: 'Alec koff', image: 'alec_koff-blues.jpg', audio: 'alec_koff-blues.mp3' },
-        { name: 'alec koff carnaval',artist: 'Artist 1', image: '../_img/alec_koff-carnaval.jpg', audio: '../_music/alec_koff-carnaval.mp3' },
-        { name: 'bransboynd night', artist: 'Artist 1',image: '../_img/bransboynd-night.jpg', audio: '../_music/bransboynd-night.mp3' },
-        { name: 'domartistudios-magical',artist: 'Artist 1', image: '../_img/domartistudios-magical.jpg', audio: '../_music/domartistudios-magical.mp3' },
-        { name: 'domartistudios-magical',artist: 'Artist 1', image: '../_img/domartistudios-magical.jpg', audio: '../_music/domartistudios-magical.mp3' }
+        { name: 'alec koff carnaval',artist: 'Artist 1', image: 'alec_koff-carnaval.jpg', audio: 'alec_koff-carnaval.mp3' },
+        { name: 'bransboynd night', artist: 'Artist 1',image: 'bransboynd-night.jpg', audio: 'bransboynd-night.mp3' },
+        { name: 'domartistudios-magical',artist: 'Artist 1', image: 'domartistudios-magical.jpg', audio: 'domartistudios-magical.mp3' },
+        { name: 'domartistudios-magical',artist: 'Artist 1', image: 'domartistudios-magical.jpg', audio: 'domartistudios-magical.mp3' }
     
     ];
 
